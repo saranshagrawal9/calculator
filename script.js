@@ -5,7 +5,7 @@ function appendValue(value) {
     display.value += value;
 }
 
-// Function to clear the display
+
 function clearDisplay() {
     display.value = '';
 }
