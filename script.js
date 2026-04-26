@@ -5,9 +5,8 @@ function appendValue(value) {
     display.value += value;
 }
 
-
 function clearDisplay() {
-    display.value = '';
+    display.value = ' ';
 }
 
 // Function to delete the last character
